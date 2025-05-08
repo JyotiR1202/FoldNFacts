@@ -7,5 +7,4 @@ requests
 biotite
 stmol
 ipywidgets==7.7.1
-ipython_genutils==0.2.0
-io
+ipython-genutils==0.2.0
