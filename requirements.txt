@@ -1,0 +1,11 @@
+streamlit
+pandas
+matplotlib
+seaborn
+py3Dmol
+requests
+biotite
+stmol
+ipywidgets==7.7.1
+ipython_genutils==0.2.0
+io
